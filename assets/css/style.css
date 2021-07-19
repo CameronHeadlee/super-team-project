@@ -1,0 +1,12 @@
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    
+}
+
+.container {
+    min-height: 400px;
+}
